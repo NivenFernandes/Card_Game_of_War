@@ -5,7 +5,7 @@
 ![Maze](images/CardWar.jpg)
 
 
-###This is a two player card game of war. Each player gets equal cards. The cards are randomly generated. 
+### This is a two player card game of war. Each player gets equal cards. The cards are randomly generated. 
 
 
 Rules:
