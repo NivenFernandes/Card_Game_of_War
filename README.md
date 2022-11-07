@@ -5,9 +5,11 @@
 ![Maze](images/CardWar.jpg)
 
 
-This is a two player card game of war. Each player gets equal cards. The cards are randomly generated. 
+###This is a two player card game of war. Each player gets equal cards. The cards are randomly generated. 
+
 
 Rules:
+
 Both players take turns to play one card at a time.
 The player playing the highest cards gets all the cards from the stack.
 If it's a tie, they play three more cards. This continues till one player wins.
